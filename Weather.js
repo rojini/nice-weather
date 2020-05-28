@@ -61,7 +61,7 @@ const weatherOptions = {
     iconName: "weather-hail",
     gradient: ["#4DA0B0", "#D39D38"],
     title: "Haze",
-    subtitle: "Just don't go outside."
+    subtitle: "Just don't go out`side."
   }
 };
 
